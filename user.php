@@ -2,7 +2,8 @@
 require_once(LIB_PATH.DS.'database.php');
 
 /**
-* 
+* This is a child class of Class DatabaseObject
+* It involves methods relating to application user
 */
 class User extends DatabaseObject
 {
