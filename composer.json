@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/finwe108/php-core-class.git"
+        }
+    ],
+    "require": {
+        "finwe108/php-core-class": "dev-main"
+    }
+}
